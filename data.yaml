@@ -1,0 +1,5 @@
+train: /Users/sonimithhang/Documents/Y3_EMA/S10/advanced_dl/yolov8n-gradcam-StreakDetection/Dataset/train
+val: /Users/sonimithhang/Documents/Y3_EMA/S10/advanced_dl/yolov8n-gradcam-StreakDetection/Dataset/validation
+test: /Users/sonimithhang/Documents/Y3_EMA/S10/advanced_dl/yolov8n-gradcam-StreakDetection/Dataset/test
+nc: 1
+names: ["streak"]
