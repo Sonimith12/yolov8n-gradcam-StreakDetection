@@ -2,7 +2,8 @@
 
 We have adapted the Grad-CAM implementation originally designed for **YOLOv5** to work with **YOLOv8** and our fine-tuned model on the **YOLOStreak dataset**. This allows us to visualize which regions the object detection model focuses on when identifying streaks in astronomical images.
 
-A huge thank you to the original authors of the [yolov5-gradcam](https://github.com/pooya-mohammadi/yolov5-gradcam) repository for their great work! 🚀  
+A huge thank you to the original authors of the [yolov5-gradcam](https://github.com/pooya-mohammadi/yolov5-gradcam) repository for their work! 🚀  
+A huge thank you to [Loshan](https://github.com/LoshanRSN) for fine tuning Yolov8n adapt to the Streak Dataset for his work! 🚀
 
 ## **Installation**  
 ```bash
