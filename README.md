@@ -1,4 +1,4 @@
-# YOLO-V8 GRADCAM on YOLOStreak Dataset
+# YOLO-V8 GRADCAM on Streak Dataset
 
 We have adapted the Grad-CAM implementation originally designed for **YOLOv5** to work with **YOLOv8** and our fine-tuned model on the **YOLOStreak dataset**. This allows us to visualize which regions the object detection model focuses on when identifying streaks in astronomical images.
 
